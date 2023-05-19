@@ -1,7 +1,11 @@
-**This document is outdated.**
-
 # Urbit Forms
 Create forms and surveys with multiple question types.
+
+**Status**:  Original project defunct in mid-2022.  We need to update the front-end in particular.
+
+Material below the fold has not yet been updated or checked for current correctness.
+
+---
 
 ## Introduction
 This document will be split into 2 parts. The agent, which is the hoon code and
